@@ -16,7 +16,7 @@
     <packaging>war</packaging>
     <name>Example: JAXB-JSON</name>
     <description/>
-
+Я всё поломал
     <repositories>
         <repository>
             <id>java.net</id>
